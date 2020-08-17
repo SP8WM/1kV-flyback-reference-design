@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LT8304-1)(type Legacy)(uri C:/Users/mikiw/Desktop/LT8304-1_1000V_flyback/LT8304-1.lib)(options "")(descr ""))
+  (lib (name Sumida_trafo)(type Legacy)(uri C:/Users/mikiw/Desktop/LT8304-1_1000V_flyback/Sumida_trafo.lib)(options "")(descr ""))
+)
